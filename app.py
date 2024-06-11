@@ -4,7 +4,7 @@ import plotly.express as px
 
 
 #Import vehicles_us.csv
-vehicles = pd.read_csv('~/TripleTen/TripleTen Sprint 4/vehicles_us.csv')
+vehicles = pd.read_csv('vehicles_us.csv')
 
 #cleaning of 'vehicles' dataframe
 
